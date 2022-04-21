@@ -1,0 +1,19 @@
+
+body{
+    background-color: antiquewhite;
+}
+
+#cell
+{
+    border: 2px solid black;
+    height:80px;
+    width:80px;
+}
+
+img{
+    padding-left: 8px;
+    display: none;
+    height: 60px;
+    width: 60px;
+    align-items: center;
+}
